@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+target/
+.mvn/
+*.log
+*.class
+.DS_Store
+.env
+.idea/
+.vscode/
+__pycache__/
+.venv/
+venv/
+bin/
+out/
