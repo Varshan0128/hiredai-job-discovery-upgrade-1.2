@@ -1,16 +1,20 @@
+# Node
 node_modules/
-dist/
-build/
-target/
-.mvn/
-*.log
-*.class
-.DS_Store
-.env
-.idea/
-.vscode/
+
+# Python
 __pycache__/
-.venv/
+*.pyc
 venv/
-bin/
-out/
+
+# Env
+.env
+
+# Logs
+*.log
+
+# Binary files
+*.tar.gz
+node_exporter*
+
+# VS Code
+.vscode/
